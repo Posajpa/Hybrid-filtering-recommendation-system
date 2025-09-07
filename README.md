@@ -1,1 +1,2 @@
-[PDF Documentation](Hybrid-filtering-recommendation-system.pdf)
+
+Read the full [Paper](Hybrid-filtering-recommendation-system.pdf).
